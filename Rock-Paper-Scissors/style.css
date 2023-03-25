@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(to bottom, white, blue);
+  width: 100vw;
+  height: 100vh;
+}
+
+.modal {
+  margin-top: 150px;
+}
+.btn {
+  padding: 20px 40px;
+  border-radius: 20px;
+  cursor: pointer;
+  background-image: linear-gradient(to right, green, red);
+  color: white;
+  margin: 0 5px;
+  font-size: 20px;
+}
