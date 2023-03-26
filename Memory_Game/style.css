@@ -1,0 +1,14 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+}
+
+img {
+  cursor: pointer;
+}
+
+body {
+  background-color: rgba(255, 0, 0, 0.183);
+}
